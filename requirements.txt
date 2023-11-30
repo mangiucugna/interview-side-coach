@@ -1,0 +1,8 @@
+requests
+gradio
+json_repair
+openai
+numpy
+transformers
+torchaudio
+accelerate
